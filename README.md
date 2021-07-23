@@ -9,10 +9,13 @@
   <img alt="React Query" src="https://img.shields.io/badge/-React_Query-ff4154?style=flat-square&logo=reactquery&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-333?style=flat-square&logo=Next.js&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
   
 </p>
 
-<h3>Tech I have experience with </h3>
+<h3>👀 Tech I have experience with </h3>
 <p>
 
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -20,7 +23,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifielder&count_private=true&show_icons=true&theme=react)
+![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifielder&count_private=true&show_icons=true&theme=algolia)
 
 
 <!--
