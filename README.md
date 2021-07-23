@@ -11,6 +11,7 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
   <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="dynamodb" src="https://img.shields.io/badge/DynamoDB-#4053D6?style=flat-square&logo=Amazon_DynamoDB&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   
   
@@ -26,7 +27,7 @@
 
 ![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifielder&count_private=true&show_icons=true&theme=algolia)
 
-![Isaiah's languages](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Isaiah's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifielder&theme=blue-green)
 
 
 
