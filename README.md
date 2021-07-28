@@ -1,6 +1,6 @@
 # Isaiah Fielder
 
-<p>Hello! I currently work as the lead software developer for a health startup called Electronic Caregiver. When it comes to my job, I love building and thinking about solving complex problems and creating incredible experiences for users. Outside of work, I'm all over the place. I'm really big into mental and physical fitness, ☕️, and solving mental health. I currently live in Las Cruces, NM, with my beautiful wife and two cats. My favorite things to do are watching anime (check out <a href="https://anify.app">anify</a>) and learn new things about cryptocurrency, and digital assets 💪.
+<p>Hello! I currently work as the lead software developer for a health startup called Electronic Caregiver. When it comes to my job, I love building and thinking about solving complex problems and creating incredible user experiences. Outside of work, I'm all over the place. I'm huge into mental and physical fitness, ☕️ and demystifying mental health. I currently live in Las Cruces, NM, with my beautiful wife and two cats. My favorite things to do are watch anime (check out <a href="https://anify.app">anify</a>) and learn new things about cryptocurrency, and digital assets 💪.
 </p>
 
 <h3>🔋 Tech I use on the daily</h3>
